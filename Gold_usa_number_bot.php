@@ -1,8 +1,8 @@
 ﻿<?php
 ob_start();
-define('API_KEY','BU YERGA BOT TOKENINI YOZING'); //bot tokeni
-$admin = "637426542"; //admin id
-$kanalimz ="@uzbcoder_n1"; //kanal useri
+define('API_KEY','5231467317:AAGeuC8cX-oZS9cX-ns9IrIA0aZWOnZ4IMM'); //bot tokeni
+$admin = "1939023187"; //admin id
+$kanalimz ="@shundaymikan"; //kanal useri
    function del($nomi){
    array_map('unlink', glob("$nomi"));
    }
