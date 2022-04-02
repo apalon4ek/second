@@ -1,10 +1,8 @@
 <?php
 ob_start();
-$token = 'token';
-$admin = '554834550';
+$token = '5231467317:AAGeuC8cX-oZS9cX-ns9IrIA0aZWOnZ4IMM';
+$admin = '1939023187';
 define('API_KEY', $token);
-
-// @Fast_Coder  @Fast_Koder
 
 function bot($method, $datas = [])
 {
